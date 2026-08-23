@@ -23,7 +23,6 @@ The high-level functions implementing the proposed tests are defined in `tests.p
 The datasets used for evaluation in the paper are available for download here:
 - [VitalDB](https://physionet.org/content/vitaldb/1.0.0/)
 - [CALCE A123 battery data](https://calce.umd.edu/battery-data#A123)
-)
 
 ### Citation
 

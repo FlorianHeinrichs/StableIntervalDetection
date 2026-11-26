@@ -28,7 +28,16 @@ The datasets used for evaluation in the paper are available for download here:
 
 If you use this code in your own work, please cite the following pre-print (or the peer reviewed paper, once available):
 
- - tba
+Heinrichs, F. (2026). Testing for Stable Intervals in Non-Stationary Time Series. arXiv preprint arXiv:2608.24194.
+
+BibTeX:
+
+      @article{heinrichs2026testing,
+        title={Testing for Stable Intervals in Non-Stationary Time Series},
+        author={Heinrichs, Florian},
+        journal={arXiv preprint arXiv:2608.24194},
+        year={2026}
+      }
     
 
 ### License
